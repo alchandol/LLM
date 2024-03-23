@@ -1,0 +1,3 @@
+- Make sure the environment has required libraries installed via requirements.txt
+- Open CMD and navigate to the directory.  
+- 'python app.py' to run
